@@ -7,3 +7,5 @@ I made two visualizations with Bokeh:
     - OverviewOfDailyTripsInOneWeek.html
     - OverviewOfHourlyTripsInOneDay.html
 To view those, one has to save the HTML files locally first and then open them in a web browser. The explanation of what they are is in the notebook.
+
+More information is available in the Jupyter Notebook.
